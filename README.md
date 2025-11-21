@@ -30,7 +30,7 @@ STEP 5:
 Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented
 
 program:
-```
+```py
 import random
 
 class HealthMonitoringAgent:
